@@ -1,5 +1,6 @@
 # For 2014 surveys
 
+setwd("/Users/michelle/Documents/Rutgers/Philippines/Surveys_2014")
 
 ################################################################
 ## Concatentate GPX track files together into one spreadsheet
